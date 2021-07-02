@@ -1,0 +1,61 @@
+body{
+    font-family: 'Potta One', cursive;
+    background-color :black ;
+    color: green;
+}
+.header_div{
+ background-color: white;
+ color: green;
+}
+.main_div{
+ padding:10px;
+ margin-top: 15px ;
+ background-color: rgb(42, 42, 42);
+ border:3px dashed rgb(22, 161, 4) ;
+}
+.main_div label {
+ background-color: white;
+ width: 300px;
+ padding:10px;
+ margin-bottom: 0px;
+ box-shadow:10px 5px 30px darkgray;
+
+}
+
+#camera , #result{
+    width: 300px;
+    height: 300px ;
+    box-shadow:10px 5px 30px darkgray;
+    border: 3px dashed rgb(22, 161, 4) ;
+}
+
+button{
+    background-color: white;
+    box-shadow:10px 5px 30px darkgray;
+    border: 3px dashed rgb(22, 161, 4) ;
+    width: 300px;
+}
+
+.footer img{
+ width:70px;
+
+}
+.footer{
+    margin-bottom: 50px;
+}
+.footer h4{
+    color:green;
+    background: white;
+    padding: 10px;
+    border-radius :10px ;
+    box-shadow: 10px 5px 30px darkgray;
+} 
+
+.copy-right-footer{
+    line-height: 3px;
+    position:fixed;
+    color:green;
+    background-color: white;
+   bottom:0px;
+    text-align: center;
+}
